@@ -1,0 +1,21 @@
+{
+  "name": "mongoplay",
+  "version": "0.0.1",
+  "description": "Simple Mongo and Mongoose examples in Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.9.16"
+  },
+  "devDependencies": {
+    "@azhder/eslint-config-azder": "0.0.7",
+    "@babel/cli": "^7.10.1",
+    "@babel/core": "^7.10.2",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.1.0",
+    "nodemon": "^2.0.4"
+  }
+}
